@@ -1,0 +1,23 @@
+.section {
+    position: relative;
+}
+
+.sidebar {
+    position: absolute;
+    top:0;
+    left:0;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.menu {
+    font-size: 35px;
+    padding-left: 30px;
+    position: sticky;
+    top: 20px;
+    left: 0;
+}
+
+.article {
+    margin-left:150px;
+}
